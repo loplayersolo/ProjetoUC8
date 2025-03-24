@@ -1,0 +1,15 @@
+C:\Users\raicl\OneDrive\Documentos\GitHub Projetos\Testes-melhorias-e-versionamento-de-aplicativo-desktop\EstoqueApp\EstoqueApp\bin\Debug\net8.0\EstoqueApp.exe
+C:\Users\raicl\OneDrive\Documentos\GitHub Projetos\Testes-melhorias-e-versionamento-de-aplicativo-desktop\EstoqueApp\EstoqueApp\bin\Debug\net8.0\EstoqueApp.deps.json
+C:\Users\raicl\OneDrive\Documentos\GitHub Projetos\Testes-melhorias-e-versionamento-de-aplicativo-desktop\EstoqueApp\EstoqueApp\bin\Debug\net8.0\EstoqueApp.runtimeconfig.json
+C:\Users\raicl\OneDrive\Documentos\GitHub Projetos\Testes-melhorias-e-versionamento-de-aplicativo-desktop\EstoqueApp\EstoqueApp\bin\Debug\net8.0\EstoqueApp.dll
+C:\Users\raicl\OneDrive\Documentos\GitHub Projetos\Testes-melhorias-e-versionamento-de-aplicativo-desktop\EstoqueApp\EstoqueApp\bin\Debug\net8.0\EstoqueApp.pdb
+C:\Users\raicl\OneDrive\Documentos\GitHub Projetos\Testes-melhorias-e-versionamento-de-aplicativo-desktop\EstoqueApp\EstoqueApp\obj\Debug\net8.0\EstoqueApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raicl\OneDrive\Documentos\GitHub Projetos\Testes-melhorias-e-versionamento-de-aplicativo-desktop\EstoqueApp\EstoqueApp\obj\Debug\net8.0\EstoqueApp.AssemblyInfoInputs.cache
+C:\Users\raicl\OneDrive\Documentos\GitHub Projetos\Testes-melhorias-e-versionamento-de-aplicativo-desktop\EstoqueApp\EstoqueApp\obj\Debug\net8.0\EstoqueApp.AssemblyInfo.cs
+C:\Users\raicl\OneDrive\Documentos\GitHub Projetos\Testes-melhorias-e-versionamento-de-aplicativo-desktop\EstoqueApp\EstoqueApp\obj\Debug\net8.0\EstoqueApp.csproj.CoreCompileInputs.cache
+C:\Users\raicl\OneDrive\Documentos\GitHub Projetos\Testes-melhorias-e-versionamento-de-aplicativo-desktop\EstoqueApp\EstoqueApp\obj\Debug\net8.0\EstoqueApp.sourcelink.json
+C:\Users\raicl\OneDrive\Documentos\GitHub Projetos\Testes-melhorias-e-versionamento-de-aplicativo-desktop\EstoqueApp\EstoqueApp\obj\Debug\net8.0\EstoqueApp.dll
+C:\Users\raicl\OneDrive\Documentos\GitHub Projetos\Testes-melhorias-e-versionamento-de-aplicativo-desktop\EstoqueApp\EstoqueApp\obj\Debug\net8.0\refint\EstoqueApp.dll
+C:\Users\raicl\OneDrive\Documentos\GitHub Projetos\Testes-melhorias-e-versionamento-de-aplicativo-desktop\EstoqueApp\EstoqueApp\obj\Debug\net8.0\EstoqueApp.pdb
+C:\Users\raicl\OneDrive\Documentos\GitHub Projetos\Testes-melhorias-e-versionamento-de-aplicativo-desktop\EstoqueApp\EstoqueApp\obj\Debug\net8.0\EstoqueApp.genruntimeconfig.cache
+C:\Users\raicl\OneDrive\Documentos\GitHub Projetos\Testes-melhorias-e-versionamento-de-aplicativo-desktop\EstoqueApp\EstoqueApp\obj\Debug\net8.0\ref\EstoqueApp.dll
