@@ -58,7 +58,7 @@ namespace EstoqueApp
             Console.Write("\nPreço: ");
             if (!decimal.TryParse(Console.ReadLine(), out decimal preco))
             {
-                Console.WriteLine("Preço inválido!");
+                Console.WriteLine("\nPreço inválido!");
                 return;
             }
 
